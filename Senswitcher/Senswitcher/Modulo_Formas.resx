@@ -117,11 +117,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="imagen1" xml:space="preserve">
-    <value>C:\Users\dome_\Desktop\SS\images\nuevo.png</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="nuevo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\nuevo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btn1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACMAAAAkCAIAAACMvhS2AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wwAADsMBx2+oZAAAAFdJREFUSEu9x7ENADAIwDD+P7cP0N17iLxk9h3xO37H7/gdv+N3/I7f8Tt+x+/4
+        Hb/jd/yO3/E7fsfv+B2/43f8jt/xO37H7/gdv+N3/I7f8Tt+Z/am3Q82O7NYggyIHgAAAABJRU5ErkJg
+        gg==
+</value>
   </data>
 </root>
